@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @vasantharajsvr
-- 👀 I’m interested in python,c,datascience,figma,
-- 🌱 I’m currently learning python,figma
-- 📫 How to reach me vasantharaj8133@gmail.com
+  
 
 
 <!---
